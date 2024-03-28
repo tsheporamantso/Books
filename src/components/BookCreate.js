@@ -1,9 +1,7 @@
-import React from 'react'
 
-const BookCreate = () => {
+
+export default function BookCreate (){
   return (
     <div>BookCreate</div>
   )
 }
-
-export default BookCreate
